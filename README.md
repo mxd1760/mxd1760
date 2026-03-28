@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Marcus.
 
-<!--
-**mxd1760/mxd1760** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like exploring how different systems work by building small projects from the ground up and trying to apply them to real world problems.
 
-Here are some ideas to get you started:
+## What I've been exploring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Embedded programming and microcontrollers
+* Native tools and utilities on desktop and mobile (windows, linux, android)
+* Some hobbiest things like game dev or model train electronics.
+
+## Selected Projects
+
+* **[Iced Musical Typing]** – Explores how rust can use Iced and Reqwest to integrate web apis and OAuth2 workflows into a neat little GUI app 
+* **[Computer Scheduler]** – Trying to solve administration problems at work with a small but useful phone app.
+
+## Right now
+
+* Experimenting with: integrating peer to peer or LAN networking solutions into different kinds of apps.
+* Learning: STM32 Hal to learn embedded beyond the arduino basics.
