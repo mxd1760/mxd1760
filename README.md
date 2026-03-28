@@ -1,19 +1,19 @@
 Hi, I'm Marcus.
 
-I like exploring how different systems work by building small projects from the ground up and trying to apply them to real world problems.
+I build small projects to understand how systems work and how they can be applied to real-world problems.
 
 ## What I've been exploring
 
-* Embedded programming and microcontrollers
-* Native tools and utilities on desktop and mobile (windows, linux, android)
-* Some hobbiest things like game dev or model train electronics.
+* Embedded programming and microcontrollers  
+* Native tools and utilities (Windows, Linux, Android)  
+* Hobbyist projects like game development and model train electronics  
 
 ## Selected Projects
 
-* **[Iced Musical Typing]** – Explores how rust can use Iced and Reqwest to integrate web apis and OAuth2 workflows into a neat little GUI app 
-* **[Computer Scheduler]** – Trying to solve administration problems at work with a small but useful phone app.
+* **[Iced Musical Typing]** – A desktop app that connects typing input to music, built to explore Rust GUIs and integrating web APIs with OAuth2.
+* **[Computer Scheduler]** – A mobile app aimed at solving real scheduling/administration problems at work, focusing on simple and practical usability.
 
 ## Right now
 
-* Experimenting with: integrating peer to peer or LAN networking solutions into different kinds of apps.
-* Learning: STM32 Hal to learn embedded beyond the arduino basics.
+* Experimenting with: peer-to-peer and LAN networking in different types of applications  
+* Learning: STM32 HAL to go beyond Arduino-level embedded development  
