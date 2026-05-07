@@ -1,6 +1,6 @@
 Hi, I'm Marcus.
 
-I build small projects to understand how systems work and how they can be applied to real-world problems.
+I build small projects from scratch to understand how systems work and how they can be applied to real-world problems.
 
 ## What I've been exploring
 
