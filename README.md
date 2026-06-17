@@ -1,19 +1,19 @@
-Hi, I'm Marcus.
+# Hi, I'm Marcus.
 
-I build small projects from scratch to understand how systems work and how they can be applied to real-world problems.
+I'm a software engineer who enjoys building projects from scratch to understand how systems work and how they can be applied to real-world problems.
 
-## What I've been exploring
+My interests are centered around embedded systems, systems programming, automation, and developer tools, but I enjoy exploring a wide range of technologies whenever a project gives me a reason to learn something new.
 
-* Embedded programming and microcontrollers  
-* Native tools and utilities (Windows, Linux, Android)  
-* Hobbyist projects like game development and model train electronics  
+Over the years I've worked with:
 
-## Selected Projects
+ - C, C++, Rust, Python, Kotlin, TypeScript, and JavaScript
+ - Embedded systems and microcontrollers
+ - Graphics programming and OpenGL
+ - Android development with Jetpack Compose
+ - Game development with Godot
+ - Web development with React, Next.js, and modern TypeScript ecosystems
+ - Databases, APIs, networking, and desktop applications
 
-* **[Iced Musical Typing]** – A desktop app that connects typing input to music, built to explore Rust GUIs and integrating web APIs with OAuth2.
-* **[Computer Scheduler]** – A mobile app aimed at solving real scheduling/administration problems at work, focusing on simple and practical usability.
+Most of what you'll find on my GitHub comes from personal projects, volunteer work, and experiments designed to learn a new technology by building something tangible with it.
 
-## Right now
-
-* Experimenting with: peer-to-peer and LAN networking in different types of applications  
-* Learning: STM32 HAL to go beyond Arduino-level embedded development  
+I'm particularly interested in opportunities to collaborate with others, contribute to meaningful projects, and continue expanding my understanding of how software interacts with the physical world.
